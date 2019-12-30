@@ -11,5 +11,3 @@ Confirmation bias: People who believe the claim might be more likely to contribu
 Inaccuracy: Anecdotes are often personal stories, and often misremembered, misrepresented, repeated inaccurately, etc.
 
 https://en.wikipedia.org/wiki/Longitudinal_study
-
-2002FemPreg & 2002FemResp used from http://thinkstats.com/nsfg.html in compliance and agreement with their terms
