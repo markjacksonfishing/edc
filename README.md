@@ -9,3 +9,5 @@ Small number of observations: If the gestation period is longer for first babies
 Selection bias: People who join a discussion of this question might be in- terested because their first babies were late. In that case the process of selecting data would bias the results.
 Confirmation bias: People who believe the claim might be more likely to contribute examples that confirm it. People who doubt the claim are more likely to cite counterexamples.
 Inaccuracy: Anecdotes are often personal stories, and often misremembered, misrepresented, repeated inaccurately, etc.
+
+https://en.wikipedia.org/wiki/Longitudinal_study
